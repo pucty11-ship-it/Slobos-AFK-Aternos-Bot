@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "PlasmaxSMP",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "PlasmaxSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "PlasmaxSMP.aternos.me",
+    "port": 64228,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -26,14 +26,14 @@
       "enabled": true,
       "sneak": true
     },
-    "chat-messages": {
+    "chat-messages": {true,
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 60,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Nezabudnite sa joinuť aj na našom Discord serveri! https://discord.gg/zqTchQpzM7",
+        "Dodržiavajte pravidlá servera! Viac info na nasom Discorde https://discord.gg/zqTchQpzM7",
+        "Nenadavajte! Nebuďte agresívni!"
       ]
     },
     "chat-log": true,
